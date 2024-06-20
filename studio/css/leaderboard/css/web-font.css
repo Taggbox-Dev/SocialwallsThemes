@@ -1,0 +1,1390 @@
+.fa-airbnb {
+	color: #ff385c
+}
+
+.fa-flickr {
+	color: #006add
+}
+
+.fa-twitter {
+	color: #29a9e1
+}
+
+.fa-linkedin {
+	color: #0a66c2
+}
+
+.fa-instagram {
+	color: #e2306c
+}
+
+.fa-facebook {
+	color: #1b74e4
+}
+
+.fa-google {
+	color: #4081ed
+}
+
+.fa-rss {
+	color: #f78422
+}
+
+.fa-youtube {
+	color: red
+}
+
+.fa-vimeo {
+	color: #1eb8eb
+}
+
+.fa-workplace {
+	color: #4767ab
+}
+
+.fa-tumblr {
+	color: #36465d
+}
+
+.fa-yelp {
+	color: #be362e
+}
+
+.fa-yammer {
+	color: #0078d4
+}
+
+.fa-slack {
+	color: #510d4e
+}
+
+.fa-airbnb {
+	color: #ff7977
+}
+
+.fa-giphy {
+	color: #000
+}
+
+.fa-soundcloud {
+	color: #fc5502
+}
+
+.fa-pinterest {
+	color: #e60022
+}
+
+.fa-onsite-upload {
+	color: #613983
+}
+
+.fa-vk {
+	color: #07f
+}
+@font-face {
+    font-family: 'TaggboxSocialFonts';
+    src:  url('https://cloud.tagbox.com/app/theme/widget/media/web-fonts/TaggboxIcon.eot?jkob7x');
+    src:  url('https://cloud.tagbox.com/app/theme/widget/media/web-fonts/TaggboxIcon.eot?jkob7x#iefix') format('embedded-opentype'),
+        url('https://cloud.tagbox.com/app/theme/widget/media/web-fonts/TaggboxIcon.ttf?jkob7x') format('truetype'),
+        url('https://cloud.tagbox.com/app/theme/widget/media/web-fonts/TaggboxIcon.woff?jkob7x') format('woff'),
+        url('https://cloud.tagbox.com/app/theme/widget/media/web-fonts/TaggboxIcon.svg?jkob7x#TaggboxSocialFonts') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+.tb__icon {
+	speak-as: never;
+	-webkit-font-feature-settings: normal;
+	font-feature-settings: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: TaggboxSocialFonts;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 1;
+	text-transform: none
+}
+
+.tb_color_icon__ {
+	display: inline
+}
+
+.fa-youtube-alt:before {
+	content: "\e91b"
+}
+
+.fa-youtube:before {
+	content: "\e923";
+	z-index: 2
+}
+
+.fa-youtube:after {
+	color: #fff;
+	content: "\e924";
+	margin-left: -1.4em;
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	z-index: 1
+}
+
+.fa-youtube-icon .tb_color_youtube_1:before {
+	color: red;
+	content: "\e923";
+	z-index: 2
+}
+
+.fa-youtube-icon .tb_color_youtube_2:before {
+	color: #fff;
+	content: "\e924";
+	margin-left: -1.42em;
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+	z-index: 1
+}
+
+.fa-google-icon .tb_color_google_1:before {
+	color: #4285f4;
+	content: "\e91c"
+}
+
+.fa-google-icon .tb_color_google_2:before {
+	color: #34a853;
+	content: "\e91d";
+	margin-left: -1em
+}
+
+.fa-google-icon .tb_color_google_3:before {
+	color: #fbbc05;
+	content: "\e91e";
+	margin-left: -1em
+}
+
+.fa-google-icon .tb_color_google_4:before {
+	color: #eb4335;
+	content: "\e91f";
+	margin-left: -1em
+}
+
+.fa-video:before {
+	content: "\e900"
+}
+
+.fa-multiple:before {
+	content: "\e901"
+}
+
+.fa-upload:before {
+	content: "\e902"
+}
+
+.fa-play-outline:before {
+	content: "\e903"
+}
+
+.fa-eye-alt:before {
+	content: "\e904"
+}
+
+.fa-reply-alt:before {
+	content: "\e905"
+}
+
+.fa-share-outline:before {
+	content: "\e906"
+}
+
+.fa-retweet:before {
+	content: "\e907"
+}
+
+.fa-heart-alt:before {
+	content: "\e908"
+}
+
+.fa-quote-left-alt:before {
+	content: "\e909"
+}
+
+.fa-quote-right-alt:before {
+	content: "\e90a"
+}
+
+.fa-airbnb-rating:before,
+.fa-google-rating:before,
+.fa-rating:before {
+	content: "\e90b"
+}
+
+.fa-multi-image:before {
+	content: "\e90c"
+}
+
+.fa-star-alt:before {
+	content: "\e90d"
+}
+
+.fa-yelp-rating:before {
+	content: "\e90e"
+}
+
+.fa-close-alt:before {
+	content: "\e90f"
+}
+
+.fa-display:before {
+	content: "\e910"
+}
+
+.fa-arrow-right-alt:before {
+	content: "\e911"
+}
+
+.fa-arrow-left-alt:before {
+	content: "\e912"
+}
+
+.fa-like-alt:before {
+	content: "\e913"
+}
+
+.fa-comment:before {
+	content: "\e914"
+}
+
+.fa-share-hover:before {
+	content: "\e915"
+}
+
+.fa-yelp-star:before {
+	content: "\e916"
+}
+
+.fa-image-placeholder:before {
+	content: "\e917"
+}
+
+.fa-play-fill:before {
+	content: "\e918"
+}
+
+.fa-Oops:before {
+	content: "\e919"
+}
+
+.fa-more:before {
+	content: "\e91a"
+}
+
+.fa-taggbox:before {
+	content: "\e920"
+}
+
+.fa-play:before {
+	content: "\e921"
+}
+
+.fa-calendar:before {
+	content: "\e922"
+}
+
+.fa-toggle:before {
+	content: "\e927"
+}
+
+.fa-share-in-alt:before {
+	content: "\e929"
+}
+
+.fa-add-image:before {
+	content: "\e92d"
+}
+
+.fa-camera:before {
+	content: "\e92e"
+}
+
+.fa-share-in:before {
+	content: "\e92f"
+}
+
+.fa-Mail:before {
+	content: "\e930"
+}
+
+.fa-open-link:before {
+	content: "\e931"
+}
+
+.fa-bag:before {
+	content: "\e932"
+}
+
+.fa-workplace:before {
+	content: "\e933"
+}
+
+.fa-rss:before {
+	content: "\e938"
+}
+
+.fa-onsite-upload:before {
+	content: "\e939"
+}
+
+.fa-giphy:before {
+	content: "\e93a"
+}
+
+.fa-search:before {
+	content: "\f002"
+}
+
+.fa-heart:before {
+	content: "\f004"
+}
+
+.fa-star:before {
+	content: "\f005"
+}
+
+.fa-user:before {
+	content: "\f007"
+}
+
+.fa-th-large:before {
+	content: "\f009"
+}
+
+.fa-th:before {
+	content: "\f00a"
+}
+
+.fa-th-list:before {
+	content: "\f00b"
+}
+
+.fa-check:before {
+	content: "\f00c"
+}
+
+.fa-times:before {
+	content: "\f00d"
+}
+
+.fa-search-plus:before {
+	content: "\f00e"
+}
+
+.fa-search-minus:before {
+	content: "\f010"
+}
+
+.fa-cog:before {
+	content: "\f013"
+}
+
+.fa-home:before {
+	content: "\f015"
+}
+
+.fa-download:before {
+	content: "\f019"
+}
+
+.fa-redo:before {
+	content: "\f01e"
+}
+
+.fa-sync:before {
+	content: "\f021"
+}
+
+.fa-flag:before {
+	content: "\f024"
+}
+
+.fa-volume-off:before {
+	content: "\f026"
+}
+
+.fa-volume-down:before {
+	content: "\f027"
+}
+
+.fa-volume-up:before {
+	content: "\f028"
+}
+
+.fa-camera-fill:before {
+	content: "\f030"
+}
+
+.fa-bold:before {
+	content: "\f032"
+}
+
+.fa-video-alt:before {
+	content: "\f03d"
+}
+
+.fa-edit:before {
+	content: "\f044"
+}
+
+.fa-step-backward:before {
+	content: "\f048"
+}
+
+.fa-fast-backward:before {
+	content: "\f049"
+}
+
+.fa-backward:before {
+	content: "\f04a"
+}
+
+.fa-play-alt:before {
+	content: "\f04b"
+}
+
+.fa-pause:before {
+	content: "\f04c"
+}
+
+.fa-stop:before {
+	content: "\f04d"
+}
+
+.fa-forward:before {
+	content: "\f04e"
+}
+
+.fa-fast-forward:before {
+	content: "\f050"
+}
+
+.fa-step-forward:before {
+	content: "\f051"
+}
+
+.fa-chevron-left:before {
+	content: "\f053"
+}
+
+.fa-chevron-right:before {
+	content: "\f054"
+}
+
+.fa-plus-circle:before {
+	content: "\f055"
+}
+
+.fa-minus-circle:before {
+	content: "\f056"
+}
+
+.fa-times-circle:before {
+	content: "\f057"
+}
+
+.fa-check-circle:before {
+	content: "\f058"
+}
+
+.fa-question-circle:before {
+	content: "\f059"
+}
+
+.fa-info-circle:before {
+	content: "\f05a"
+}
+
+.fa-arrow-left:before {
+	content: "\f060"
+}
+
+.fa-arrow-right:before {
+	content: "\f061"
+}
+
+.fa-arrow-up:before {
+	content: "\f062"
+}
+
+.fa-arrow-down:before {
+	content: "\f063"
+}
+
+.fa-share:before {
+	content: "\f064"
+}
+
+.fa-expand:before {
+	content: "\f065"
+}
+
+.fa-compress:before {
+	content: "\f066"
+}
+
+.fa-plus:before {
+	content: "\f067"
+}
+
+.fa-minus:before {
+	content: "\f068"
+}
+
+.fa-exclamation-circle:before {
+	content: "\f06a"
+}
+
+.fa-eye:before {
+	content: "\f06e"
+}
+
+.fa-eye-slash:before {
+	content: "\f070"
+}
+
+.fa-exclamation-triangle:before {
+	content: "\f071"
+}
+
+.fa-chevron-up:before {
+	content: "\f077"
+}
+
+.fa-chevron-down:before {
+	content: "\f078"
+}
+
+.fa-chart-bar:before {
+	content: "\f080"
+}
+
+.fa-twitter-square:before {
+	content: "\f081"
+}
+
+.fa-facebook-square:before {
+	content: "\f082"
+}
+
+.fa-linkedin-square:before {
+	content: "\f08c"
+}
+
+.fa-phone:before {
+	content: "\f095"
+}
+
+.fa-twitter:before {
+	content: "\f099"
+}
+
+.fa-facebook:before {
+	content: "\f09a"
+}
+
+.fa-github:before {
+	content: "\f09b"
+}
+
+.fa-arrow-circle-left:before {
+	content: "\f0a8"
+}
+
+.fa-arrow-circle-right:before {
+	content: "\f0a9"
+}
+
+.fa-arrow-circle-up:before {
+	content: "\f0aa"
+}
+
+.fa-arrow-circle-down:before {
+	content: "\f0ab"
+}
+
+.fa-globe:before {
+	content: "\f0ac"
+}
+
+.fa-users:before {
+	content: "\f0c0"
+}
+
+.fa-link:before {
+	content: "\f0c1"
+}
+
+.fa-paperclip:before {
+	content: "\f0c6"
+}
+
+.fa-pinterest:before {
+	content: "\f0d2"
+}
+
+.fa-pinterest-square:before {
+	content: "\f0d3"
+}
+
+.fa-google-plus-square:before {
+	content: "\f0d4"
+}
+
+.fa-google-plus-g:before {
+	content: "\f0d5"
+}
+
+.fa-caret-down:before {
+	content: "\f0d7"
+}
+
+.fa-caret-up:before {
+	content: "\f0d8"
+}
+
+.fa-caret-left:before {
+	content: "\f0d9"
+}
+
+.fa-caret-right:before {
+	content: "\f0da"
+}
+
+.fa-sort:before {
+	content: "\f0dc"
+}
+
+.fa-sort-down:before {
+	content: "\f0dd"
+}
+
+.fa-sort-up:before {
+	content: "\f0de"
+}
+
+.fa-linkedin:before {
+	content: "\f0e1"
+}
+
+.fa-angle-double-left:before {
+	content: "\f100"
+}
+
+.fa-angle-double-right:before {
+	content: "\f101"
+}
+
+.fa-angle-double-up:before {
+	content: "\f102"
+}
+
+.fa-angle-double-down:before {
+	content: "\f103"
+}
+
+.fa-angle-left:before {
+	content: "\f108"
+}
+
+.fa-angle-right:before {
+	content: "\f109"
+}
+
+.fa-angle-up:before {
+	content: "\f10a"
+}
+
+.fa-angle-down:before {
+	content: "\f10b"
+}
+
+.fa-quote-left:before {
+	content: "\f10d"
+}
+
+.fa-quote-right:before {
+	content: "\f10e"
+}
+
+.fa-smile:before {
+	content: "\f118"
+}
+
+.fa-frown:before {
+	content: "\f119"
+}
+
+.fa-meh:before {
+	content: "\f11a"
+}
+
+.fa-reply-all:before {
+	content: "\f122"
+}
+
+.fa-location-arrow:before {
+	content: "\f124"
+}
+
+.fa-chevron-circle-left:before {
+	content: "\f137"
+}
+
+.fa-chevron-circle-right:before {
+	content: "\f138"
+}
+
+.fa-chevron-circle-up:before {
+	content: "\f139"
+}
+
+.fa-chevron-circle-down:before {
+	content: "\f13a"
+}
+
+.fa-chevron-circle-left1:before {
+	content: "\f13d"
+}
+
+.fa-chevron-circle-right1:before {
+	content: "\f13e"
+}
+
+.fa-chevron-circle-up1:before {
+	content: "\f13f"
+}
+
+.fa-chevron-circle-down1:before {
+	content: "\f140"
+}
+
+.fa-ellipsis-h:before {
+	content: "\f141"
+}
+
+.fa-ellipsis-v:before {
+	content: "\f142"
+}
+
+.fa-play-circle:before {
+	content: "\f144"
+}
+
+.fa-share-square:before {
+	content: "\f14d"
+}
+
+.fa-dollar-sign:before {
+	content: "\f155"
+}
+
+.fa-rupee-sign:before {
+	content: "\f156"
+}
+
+.fa-thumbs-up:before {
+	content: "\f164"
+}
+
+.fa-thumbs-down:before {
+	content: "\f165"
+}
+
+.fa-thumbs-up1:before {
+	content: "\f166"
+}
+
+.fa-xing:before {
+	content: "\f168"
+}
+
+.fa-thumbs-down1:before {
+	content: "\f16a"
+}
+
+.fa-instagram:before {
+	content: "\f16d"
+}
+
+.fa-flickr:before {
+	content: "\f16e"
+}
+
+.fa-tumblr:before {
+	content: "\f173"
+}
+
+.fa-tumblr-square:before {
+	content: "\f174"
+}
+
+.fa-apple:before {
+	content: "\f179"
+}
+
+.fa-windows:before {
+	content: "\f17a"
+}
+
+.fa-android:before {
+	content: "\f17b"
+}
+
+.fa-vk:before {
+	content: "\f189"
+}
+
+.fa-vimeo-square:before {
+	content: "\f27d"
+}
+
+.fa-slack:before {
+	content: "\f198"
+}
+
+.fa-google:before {
+	content: "\f1a0"
+}
+
+.fa-spotify:before {
+	content: "\f1bc"
+}
+
+.fa-deviantart:before {
+	content: "\f1bd"
+}
+
+.fa-soundcloud:before {
+	content: "\f1be"
+}
+
+.fa-vine:before {
+	content: "\f1ca"
+}
+
+.fa-jsfiddle:before {
+	content: "\f1cc"
+}
+
+.fa-share-alt:before {
+	content: "\f1e0"
+}
+
+.fa-yelp:before {
+	content: "\f1e9"
+}
+
+.fa-at:before {
+	content: "\f1fa"
+}
+
+.fa-pinterest-p:before {
+	content: "\f231"
+}
+
+.fa-whatsapp:before {
+	content: "\f232"
+}
+
+.fa-opencart:before {
+	content: "\f23d"
+}
+
+.fa-mouse-pointer:before {
+	content: "\f245"
+}
+
+.fa-clone:before {
+	content: "\f24d"
+}
+
+.fa-wikipedia-w:before {
+	content: "\f266"
+}
+
+.fa-vimeo:before {
+	content: "\f194"
+}
+
+.fa-reddit-alien:before {
+	content: "\f281"
+}
+
+.fa-pause-circle:before {
+	content: "\f28b"
+}
+
+.fa-stop-circle:before {
+	content: "\f28d"
+}
+
+.fa-shopping-bag:before {
+	content: "\f290"
+}
+
+.fa-shopping-basket:before {
+	content: "\f291"
+}
+
+.fa-hashtag:before {
+	content: "\f292"
+}
+
+.fa-yoast:before {
+	content: "\f2b1"
+}
+
+.fa-google-plus:before {
+	content: "\f2b3"
+}
+
+.fa-user-circle:before {
+	content: "\f2bd"
+}
+
+.fa-undo-alt:before {
+	content: "\f2ea"
+}
+
+.fa-sync-alt:before {
+	content: "\f2f1"
+}
+
+.fa-sign-out-alt:before {
+	content: "\f2f5"
+}
+
+.fa-sign-in-alt:before {
+	content: "\f2f6"
+}
+
+.fa-redo-alt:before {
+	content: "\f2f9"
+}
+
+.fa-pencil-alt:before {
+	content: "\f303"
+}
+
+.fa-long-arrow-alt-down:before {
+	content: "\f309"
+}
+
+.fa-long-arrow-alt-left:before {
+	content: "\f30a"
+}
+
+.fa-long-arrow-alt-right:before {
+	content: "\f30b"
+}
+
+.fa-long-arrow-alt-up:before {
+	content: "\f30c"
+}
+
+.fa-expand-arrows-alt:before {
+	content: "\f31e"
+}
+
+.fa-external-link-alt:before {
+	content: "\f35d"
+}
+
+.fa-exchange-alt:before {
+	content: "\f362"
+}
+
+.fa-buromobelexperte:before {
+	content: "\f37f"
+}
+
+.fa-facebook-f:before {
+	content: "\f39e"
+}
+
+.fa-facebook-messenger:before {
+	content: "\f39f"
+}
+
+.fa-hubspot:before {
+	content: "\f3b2"
+}
+
+.fa-map-marker-alt:before {
+	content: "\f3c5"
+}
+
+.fa-reply:before {
+	content: "\f3e5"
+}
+
+.fa-sistrix:before {
+	content: "\f3ee"
+}
+
+.fa-slack-hash:before {
+	content: "\f3ef"
+}
+
+.fa-telegram-plane:before {
+	content: "\f3fe"
+}
+
+.fa-user-alt:before {
+	content: "\f406"
+}
+
+.fa-whatsapp-square:before {
+	content: "\f40c"
+}
+
+.fa-user-friends:before {
+	content: "\f500"
+}
+
+.fa-users-cog:before {
+	content: "\f509"
+}
+
+.fa-check-double:before {
+	content: "\f560"
+}
+
+.fa-airbnb:before {
+	content: "\f834"
+}
+
+.fa-yammer:before {
+	content: "\f840"
+}
+
+.fa-instagram-square:before {
+	content: "\f955"
+}
+
+.fa-tiktok:before {
+	content: "\f97b"
+}
+
+
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /* cyrillic-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /* cyrillic-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /* cyrillic-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  /* cyrillic-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  }
+  /* cyrillic */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+  }
+  /* greek-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+  }
+  /* greek */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+  }
+  /* vietnamese */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+  }
+  /* latin-ext */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/inter/v2/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }

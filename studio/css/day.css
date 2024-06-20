@@ -1,0 +1,100 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: inter;
+}
+.cldtd_calendar_card_sidebar_day {
+  width: 55vw;
+  height: 100%;
+  line-height: 1.5;
+  background: #353236;
+}
+.cldtd_calendar_card_main_day {
+  width: 45vw;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  flex-direction: column;
+  color: #353236;
+
+}
+.cldtd_calendar_card_DateDay {
+  font-size: calc(3vw + 3vh);
+}
+.cldtd_calendar_card_YearMonth {
+  font-size: calc(1.5vw + 1.5vh);
+}
+.cldtd_calendar_card_sidebar_event_date_Day {
+  font-size: 0.9vw;
+  width: 25%;
+  font-weight: 600;
+}
+.fc .fc-list-empty-cushion {
+  margin: 5em 0;
+  color: #ccc;
+}
+.cldtd_calendar_card_sidebar .fc .fc-scroller-liquid {
+  height: auto;
+}
+.cldtd_calendar_card_sidebar_day .fc-list-event-graphic {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.cldtd_calendar_card_sidebar_day .fc-theme-standard td,
+.cldtd_calendar_card_sidebar_day .fc-theme-standard th {
+  border: none;
+}
+.cldtd_calendar_card_eventSection {
+  height: calc(100vh - 20vh);
+}
+.cldtd_calendar_card_sidebar_date {
+  font-size: calc(1vw + 1vh); 
+  padding: calc(0.9vh + 0.9vw) calc(0.55vh + 0.55vw) ;
+}
+.fc table {
+  font-size: calc(0.60vw + 0.60vh); 
+}
+@media (min-aspect-ratio: 4/1) {
+  .cldtd_calendar_card_sidebar_day tr.fc-list-event.fc-event.fc-event-start.fc-event-end.fc-event-future {
+    display: inline-table;
+    width: 33.33%;
+    border-right: 1px solid;
+  }
+  .cldtd_calendar_card_sidebar_date {
+    font-size: calc(1vw + 1.5vh); 
+  }
+  .fc table {
+    font-size: calc(0.7vw + 0.9vh); 
+  }
+}
+
+@media (orientation: portrait) {
+  .cldtd_calendar_card {
+    flex-direction: column;
+  }
+  .cldtd_calendar_card_main_day {
+    width: 100vw;
+  }
+  .cldtd_calendar_card_sidebar_day {
+    width: 100vw;
+  }
+  .cldtd_calendar_card_DateDay {
+    font-size: calc(3vw + 1.5vh);
+  }
+  .cldtd_calendar_card_YearMonth {
+    font-size: calc(1.5vw + 1vh);
+  }
+  .cldtd_calendar_card_sidebar_date {
+    font-size: calc(1.5vw + 1vh); 
+  }
+  .fc table {
+    font-size: calc(1vw + 0.75vh); 
+  }
+}
+@media (min-aspect-ratio: 3/4) and (max-aspect-ratio: 4/3) {
+  
+}
