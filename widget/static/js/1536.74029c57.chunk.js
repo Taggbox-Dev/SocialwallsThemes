@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[1536],{81536:(e,s,a)=>{a.r(s),a.d(s,{default:()=>b});var d=a(72791),n=a(80184);const t=d.lazy((()=>a.e(1932).then(a.bind(a,91932)))),l=e=>(0,n.jsxs)(d.Suspense,{fallback:(0,n.jsx)(n.Fragment,{}),children:["  ",(0,n.jsx)(t,{...e})]}),b=(0,d.memo)(l)}}]);
+//# sourceMappingURL=1536.74029c57.chunk.js.map
