@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://display.socialwalls.com/studio/static/css/main.a8fc57b0.css",
+    "main.js": "https://display.socialwalls.com/studio/static/js/main.6500c6f5.js",
+    "reactPlayerYouTube.js": "https://display.socialwalls.com/studio/static/js/reactPlayerYouTube.c9726d8c.chunk.js",
+    "reactPlayerSoundCloud.js": "https://display.socialwalls.com/studio/static/js/reactPlayerSoundCloud.1a5abd60.chunk.js",
+    "reactPlayerVimeo.js": "https://display.socialwalls.com/studio/static/js/reactPlayerVimeo.9642d9e3.chunk.js",
+    "reactPlayerFacebook.js": "https://display.socialwalls.com/studio/static/js/reactPlayerFacebook.d4e34e11.chunk.js",
+    "reactPlayerStreamable.js": "https://display.socialwalls.com/studio/static/js/reactPlayerStreamable.14474010.chunk.js",
+    "reactPlayerWistia.js": "https://display.socialwalls.com/studio/static/js/reactPlayerWistia.2b556d01.chunk.js",
+    "reactPlayerTwitch.js": "https://display.socialwalls.com/studio/static/js/reactPlayerTwitch.749f8e36.chunk.js",
+    "reactPlayerDailyMotion.js": "https://display.socialwalls.com/studio/static/js/reactPlayerDailyMotion.cd312861.chunk.js",
+    "reactPlayerMixcloud.js": "https://display.socialwalls.com/studio/static/js/reactPlayerMixcloud.6918a79d.chunk.js",
+    "reactPlayerVidyard.js": "https://display.socialwalls.com/studio/static/js/reactPlayerVidyard.9d5191f1.chunk.js",
+    "reactPlayerKaltura.js": "https://display.socialwalls.com/studio/static/js/reactPlayerKaltura.7143ca8e.chunk.js",
+    "reactPlayerFilePlayer.js": "https://display.socialwalls.com/studio/static/js/reactPlayerFilePlayer.9c97fec5.chunk.js",
+    "reactPlayerPreview.js": "https://display.socialwalls.com/studio/static/js/reactPlayerPreview.490a87d3.chunk.js",
+    "index.html": "https://display.socialwalls.com/studio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a8fc57b0.css",
+    "static/js/main.6500c6f5.js"
+  ]
+}
