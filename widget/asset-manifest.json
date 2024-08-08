@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.socialwalls.com/widget/static/css/main.cd96959a.css",
-    "main.js": "https://widget.socialwalls.com/widget/static/js/main.517a3d8b.js",
+    "main.js": "https://widget.socialwalls.com/widget/static/js/main.c5cc1ca3.js",
     "static/css/7550.d40c9834.chunk.css": "https://widget.socialwalls.com/widget/static/css/7550.d40c9834.chunk.css",
     "static/js/7550.cab37d6e.chunk.js": "https://widget.socialwalls.com/widget/static/js/7550.cab37d6e.chunk.js",
     "static/js/3690.c24687f6.chunk.js": "https://widget.socialwalls.com/widget/static/js/3690.c24687f6.chunk.js",
@@ -125,6 +125,6 @@
   },
   "entrypoints": [
     "static/css/main.cd96959a.css",
-    "static/js/main.517a3d8b.js"
+    "static/js/main.c5cc1ca3.js"
   ]
 }
