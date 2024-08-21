@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[1256],{31256:(e,s,a)=>{a.r(s),a.d(s,{default:()=>b});var d=a(47313),n=a(46417);const t=d.lazy((()=>a.e(982).then(a.bind(a,40982)))),l=e=>(0,n.jsxs)(d.Suspense,{fallback:(0,n.jsx)(n.Fragment,{}),children:[" ",(0,n.jsx)(t,{...e})]}),b=(0,d.memo)(l)}}]);

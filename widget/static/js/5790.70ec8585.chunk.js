@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[5790],{55790:(e,s,t)=>{t.r(s),t.d(s,{default:()=>u});var a=t(47313),m=t(17739),d=t(46417);const l=e=>{const{postTime:s,timeClass:t,authorNameStyle:l}=e,u=(0,a.useMemo)((()=>(0,m.Sy)(s)),[]);return(0,d.jsx)("div",{className:t,style:l,children:u})},u=(0,a.memo)(l)}}]);
