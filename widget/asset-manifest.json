@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://widget.socialwalls.com/widget/static/css/main.cd96959a.css",
-    "main.js": "https://widget.socialwalls.com/widget/static/js/main.d7d7c8bd.js",
+    "main.css": "https://widget.socialwalls.com/widget/static/css/main.ede99ff0.css",
+    "main.js": "https://widget.socialwalls.com/widget/static/js/main.19e6a650.js",
     "static/css/7550.d40c9834.chunk.css": "https://widget.socialwalls.com/widget/static/css/7550.d40c9834.chunk.css",
     "static/js/7550.cab37d6e.chunk.js": "https://widget.socialwalls.com/widget/static/js/7550.cab37d6e.chunk.js",
     "static/js/3690.c24687f6.chunk.js": "https://widget.socialwalls.com/widget/static/js/3690.c24687f6.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/288.67272ccd.chunk.js": "https://widget.socialwalls.com/widget/static/js/288.67272ccd.chunk.js",
     "static/js/9031.cffdbce8.chunk.js": "https://widget.socialwalls.com/widget/static/js/9031.cffdbce8.chunk.js",
     "static/js/8454.045b1c6b.chunk.js": "https://widget.socialwalls.com/widget/static/js/8454.045b1c6b.chunk.js",
-    "static/css/8678.586211ac.chunk.css": "https://widget.socialwalls.com/widget/static/css/8678.586211ac.chunk.css",
+    "static/css/8678.280cf933.chunk.css": "https://widget.socialwalls.com/widget/static/css/8678.280cf933.chunk.css",
     "static/js/8678.4f7a4ce5.chunk.js": "https://widget.socialwalls.com/widget/static/js/8678.4f7a4ce5.chunk.js",
     "static/js/339.dd96ef05.chunk.js": "https://widget.socialwalls.com/widget/static/js/339.dd96ef05.chunk.js",
     "static/js/3607.854a0441.chunk.js": "https://widget.socialwalls.com/widget/static/js/3607.854a0441.chunk.js",
@@ -120,11 +120,11 @@
     "static/js/2789.62f6c9c4.chunk.js": "https://widget.socialwalls.com/widget/static/js/2789.62f6c9c4.chunk.js",
     "static/js/8349.1fbfced0.chunk.js": "https://widget.socialwalls.com/widget/static/js/8349.1fbfced0.chunk.js",
     "static/css/9395.2afa5e3f.chunk.css": "https://widget.socialwalls.com/widget/static/css/9395.2afa5e3f.chunk.css",
-    "static/js/4693.6d5ed532.chunk.js": "https://widget.socialwalls.com/widget/static/js/4693.6d5ed532.chunk.js",
+    "static/js/4693.1ff65fc3.chunk.js": "https://widget.socialwalls.com/widget/static/js/4693.1ff65fc3.chunk.js",
     "index.html": "https://widget.socialwalls.com/widget/index.html"
   },
   "entrypoints": [
-    "static/css/main.cd96959a.css",
-    "static/js/main.d7d7c8bd.js"
+    "static/css/main.ede99ff0.css",
+    "static/js/main.19e6a650.js"
   ]
 }
