@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://widget.socialwalls.com/socialeditor/static/css/main.9e3d88a8.css",
-    "main.js": "https://widget.socialwalls.com/socialeditor/static/js/main.8d9a9d1a.js",
+    "main.js": "https://widget.socialwalls.com/socialeditor/static/js/main.32b6bdbd.js",
     "static/js/7774.4ecd9b9a.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/7774.4ecd9b9a.chunk.js",
-    "static/js/4355.dbf7d714.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/4355.dbf7d714.chunk.js",
-    "static/js/3032.67314340.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/3032.67314340.chunk.js",
+    "static/js/4355.da716c79.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/4355.da716c79.chunk.js",
+    "static/js/3032.9e20c3ce.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/3032.9e20c3ce.chunk.js",
     "static/js/5807.1bcda381.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/5807.1bcda381.chunk.js",
     "static/js/9031.b961a7eb.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/9031.b961a7eb.chunk.js",
     "static/js/8454.5f3659a4.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/8454.5f3659a4.chunk.js",
@@ -35,12 +35,12 @@
     "static/css/1819.87fcfe48.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/1819.87fcfe48.chunk.css",
     "static/js/1819.ccef08bd.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/1819.ccef08bd.chunk.js",
     "static/js/8534.c1bf931c.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/8534.c1bf931c.chunk.js",
-    "static/js/589.0ab8b1ee.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/589.0ab8b1ee.chunk.js",
+    "static/js/589.d2d05593.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/589.d2d05593.chunk.js",
     "static/js/7209.2278372e.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/7209.2278372e.chunk.js",
     "static/js/6574.734e2d0e.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/6574.734e2d0e.chunk.js",
     "static/js/33.af31c014.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/33.af31c014.chunk.js",
     "static/css/7901.b99b8e27.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/7901.b99b8e27.chunk.css",
-    "static/js/7901.9a1c5fb1.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/7901.9a1c5fb1.chunk.js",
+    "static/js/7901.071c0cd6.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/7901.071c0cd6.chunk.js",
     "static/css/695.f1f8916c.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/695.f1f8916c.chunk.css",
     "static/js/695.d0f094e1.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/695.d0f094e1.chunk.js",
     "static/css/2963.4531061a.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/2963.4531061a.chunk.css",
@@ -91,7 +91,7 @@
     "static/css/9856.9cd3dbde.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/9856.9cd3dbde.chunk.css",
     "static/js/9856.85972069.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/9856.85972069.chunk.js",
     "static/css/5960.e4139b8c.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/5960.e4139b8c.chunk.css",
-    "static/js/5960.860e3765.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/5960.860e3765.chunk.js",
+    "static/js/5960.b35172bf.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/5960.b35172bf.chunk.js",
     "static/css/5598.17eae7bd.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/5598.17eae7bd.chunk.css",
     "static/js/5598.97d351b1.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/5598.97d351b1.chunk.js",
     "static/css/117.b2577f90.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/117.b2577f90.chunk.css",
@@ -193,6 +193,6 @@
   },
   "entrypoints": [
     "static/css/main.9e3d88a8.css",
-    "static/js/main.8d9a9d1a.js"
+    "static/js/main.32b6bdbd.js"
   ]
 }
