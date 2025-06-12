@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.socialwalls.com/socialeditor/static/css/main.9e3d88a8.css",
-    "main.js": "https://widget.socialwalls.com/socialeditor/static/js/main.6e8f7faa.js",
+    "main.js": "https://widget.socialwalls.com/socialeditor/static/js/main.e422bd65.js",
     "static/js/854.323d6fb4.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/854.323d6fb4.chunk.js",
     "static/js/8689.c94bf6f5.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/8689.c94bf6f5.chunk.js",
     "static/js/5505.0c6a0039.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/5505.0c6a0039.chunk.js",
@@ -122,8 +122,8 @@
     "static/js/3409.42b10b66.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/3409.42b10b66.chunk.js",
     "static/css/1555.ed56300e.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/1555.ed56300e.chunk.css",
     "static/js/1555.bf50c010.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/1555.bf50c010.chunk.js",
-    "static/css/8297.d797c2b2.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/8297.d797c2b2.chunk.css",
-    "static/js/8297.3893e4dc.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/8297.3893e4dc.chunk.js",
+    "static/css/8297.3e9b43b2.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/8297.3e9b43b2.chunk.css",
+    "static/js/8297.39aac490.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/8297.39aac490.chunk.js",
     "static/css/2783.7a7550c7.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/2783.7a7550c7.chunk.css",
     "static/js/2783.9f7576db.chunk.js": "https://widget.socialwalls.com/socialeditor/static/js/2783.9f7576db.chunk.js",
     "static/css/7350.bd6487c9.chunk.css": "https://widget.socialwalls.com/socialeditor/static/css/7350.bd6487c9.chunk.css",
@@ -198,6 +198,6 @@
   },
   "entrypoints": [
     "static/css/main.9e3d88a8.css",
-    "static/js/main.6e8f7faa.js"
+    "static/js/main.e422bd65.js"
   ]
 }
