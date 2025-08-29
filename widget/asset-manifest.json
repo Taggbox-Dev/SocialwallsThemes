@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.socialwalls.com/widget/static/css/main.bf669ea7.css",
-    "main.js": "https://widget.socialwalls.com/widget/static/js/main.35df2a22.js",
+    "main.js": "https://widget.socialwalls.com/widget/static/js/main.2752a803.js",
     "static/js/854.f5994e91.chunk.js": "https://widget.socialwalls.com/widget/static/js/854.f5994e91.chunk.js",
     "static/js/8689.6465f4ea.chunk.js": "https://widget.socialwalls.com/widget/static/js/8689.6465f4ea.chunk.js",
     "static/js/5505.ebc79b25.chunk.js": "https://widget.socialwalls.com/widget/static/js/5505.ebc79b25.chunk.js",
@@ -16,9 +16,9 @@
     "static/js/4877.c2139d3c.chunk.js": "https://widget.socialwalls.com/widget/static/js/4877.c2139d3c.chunk.js",
     "static/js/9563.9766e240.chunk.js": "https://widget.socialwalls.com/widget/static/js/9563.9766e240.chunk.js",
     "static/js/495.a21e217d.chunk.js": "https://widget.socialwalls.com/widget/static/js/495.a21e217d.chunk.js",
-    "static/css/5600.f5021417.chunk.css": "https://widget.socialwalls.com/widget/static/css/5600.f5021417.chunk.css",
-    "static/js/5600.e8773c41.chunk.js": "https://widget.socialwalls.com/widget/static/js/5600.e8773c41.chunk.js",
-    "static/css/8813.f5021417.chunk.css": "https://widget.socialwalls.com/widget/static/css/8813.f5021417.chunk.css",
+    "static/css/5600.84c78660.chunk.css": "https://widget.socialwalls.com/widget/static/css/5600.84c78660.chunk.css",
+    "static/js/5600.487e4d0d.chunk.js": "https://widget.socialwalls.com/widget/static/js/5600.487e4d0d.chunk.js",
+    "static/css/8813.84c78660.chunk.css": "https://widget.socialwalls.com/widget/static/css/8813.84c78660.chunk.css",
     "static/js/8813.766f843f.chunk.js": "https://widget.socialwalls.com/widget/static/js/8813.766f843f.chunk.js",
     "static/js/2833.65c95bd6.chunk.js": "https://widget.socialwalls.com/widget/static/js/2833.65c95bd6.chunk.js",
     "static/js/2902.5547a45b.chunk.js": "https://widget.socialwalls.com/widget/static/js/2902.5547a45b.chunk.js",
@@ -207,6 +207,6 @@
   },
   "entrypoints": [
     "static/css/main.bf669ea7.css",
-    "static/js/main.35df2a22.js"
+    "static/js/main.2752a803.js"
   ]
 }
