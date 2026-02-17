@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://display.socialwalls.com/studio/static/css/main.65e16c79.css",
-    "main.js": "https://display.socialwalls.com/studio/static/js/main.8699f706.js",
+    "main.js": "https://display.socialwalls.com/studio/static/js/main.d9734c11.js",
     "reactPlayerYouTube.js": "https://display.socialwalls.com/studio/static/js/reactPlayerYouTube.b267afc1.chunk.js",
     "reactPlayerSoundCloud.js": "https://display.socialwalls.com/studio/static/js/reactPlayerSoundCloud.211f30d0.chunk.js",
     "reactPlayerVimeo.js": "https://display.socialwalls.com/studio/static/js/reactPlayerVimeo.c05b38c4.chunk.js",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.65e16c79.css",
-    "static/js/main.8699f706.js"
+    "static/js/main.d9734c11.js"
   ]
 }
